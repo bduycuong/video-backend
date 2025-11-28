@@ -133,7 +133,7 @@
             // Thay link ví dụ bằng link thật của bạn, nhớ giữ nguyên đuôi /download
             // Ví dụ: const API_URL = "https://ten-app-cua-ban.onrender.com/download";
             
-            const API_URL = "HÃY_DÁN_LINK_RENDER_CỦA_BẠN_VÀO_ĐÂY/download";
+            const API_URL = "https://my-uni-api.onrender.com/download";
             
             // =========================================================================
 
